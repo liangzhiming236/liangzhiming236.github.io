@@ -16,35 +16,10 @@
   </tr>
 </table>
 
-
-### Markdown
-
-Markdown is not a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Education
-## Paper
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Education
 - School of Geography Sciences, South China Normal Universtiy. Bachelor. 2014-2018.
 - School of Mathematical Sciences, South China Normal Universtiy. Master. 2018-2021
 
 ### Papers
 
-- 555
+- *Class Center Dispersion Network for Out-of-Distribution Detection* ADVANCING TOWARDS THE SDGs: ARTIFICIAL INTELLIGENCE FOR A FAIR, JUST AND EQUITABLE WORLD. ECAI 2020. Under review.
