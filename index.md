@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liangzhiming236/liangzhiming236.github.io/edit/master/index.md) to maintainaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaown files.
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -12,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/liangzhiming236/liangzhimi
       <p><b>Guangzhou, Guangdong 510631, China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/guanyu.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
