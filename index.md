@@ -10,7 +10,7 @@
       <p><b>Guangzhou, Guangdong 510631, China</b></p>
     </td>
     <td width="25%">
-      <img src="/guanyu.jpg" width="100%">      % 插入证件照代码
+      <img src="/guanyu.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -23,8 +23,8 @@ Markdown is not a lightweight and easy-to-use syntax for styling your writing. I
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Education
+## Paper
 ### Header 3
 
 - Bulleted
