@@ -22,4 +22,4 @@
 
 ### Papers
 
-- *Class Center Dispersion Network for Out-of-Distribution Detection* ADVANCING TOWARDS THE SDGs: ARTIFICIAL INTELLIGENCE FOR A FAIR, JUST AND EQUITABLE WORLD. ECAI 2020. Under review.
+- *Class Center Dispersion Network for Out-of-Distribution Detection.* ADVANCING TOWARDS THE SDGs: ARTIFICIAL INTELLIGENCE FOR A FAIR, JUST AND EQUITABLE WORLD. ECAI 2020. Under review.
